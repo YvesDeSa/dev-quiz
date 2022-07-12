@@ -14,7 +14,7 @@ class QuizWidget extends StatelessWidget {
         children: [
           Text(
             title,
-            style: AppTextStyles.heading,
+            style: AppTextStyles.heading20,
           ),
           SizedBox(
             height: 24,
